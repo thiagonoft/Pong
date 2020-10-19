@@ -1,2 +1,2 @@
 # 🏓 Pong
-### Clássico jogo Pong recriado em Python
+#### Clássico jogo Pong recriado em Python
